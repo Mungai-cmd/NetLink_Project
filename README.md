@@ -1,7 +1,7 @@
 # NetLink - WiFi Provider Website
 
 NetLink is a full-stack website designed for a WiFi provider company. 
-The platform allows users to register, login, and access various services such as purchasing data bundles and WiFi accessories. 
+The platform allows users to register, login, and access various services such as  data bundles and WiFi accessories. 
 The site is responsive and interactive, ensuring a seamless experience across devices.
 
 ## Features
